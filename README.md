@@ -1,2 +1,2 @@
 # Gitdemo
-git demo gor beginer
+git demo for beginer
